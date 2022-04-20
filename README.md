@@ -1,4 +1,5 @@
 # Algorithms and Data structure assignments 
 
-# University of Applied sciences Amsterdam
+Solutions to assignments for the course Algorithms and Data structures of semester-3 SE
+
 
